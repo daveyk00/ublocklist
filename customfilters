@@ -14,3 +14,6 @@ secure.employmenthero.com###WIDGET_RECOMMENDED > .bmOLWH.StyledWidget__WidgetCon
 
 ! twitch video ad
 twitch.tv##+js(twitch-videoad)
+
+# ITG walkme
+itglue.walkme.datto.com/*
