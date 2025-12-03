@@ -1,7 +1,7 @@
 ! https://arstechnica.com
 arstechnica.com##.cne-interlude-container
 
-accounts.google.com/gsi/*
+||accounts.google.com/gsi/*
 
 ! Google AI overview
 google.com##.hdzaWe
@@ -10,13 +10,13 @@ google.com##.hdzaWe
 au.itglue.com##.copilot-smart-assist-widget.card--clf.card
 
 ! ITG walkme
-itglue.walkme.datto.com/*
+||
 
 ! walkme
-cdn.walkme.com/*
-papi.walkme.com/*
-*.walkme.dev/*
-*.walkmewa.com/*
+||cdn.walkme.com/*
+||papi.walkme.com/*
+||*.walkme.dev^
+||*.walkmewa.com/^
 
 
 ! Employment Hero recommended widget
