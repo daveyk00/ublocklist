@@ -9,11 +9,19 @@ google.com##.hdzaWe
 ! IT Glue Cooper copilot
 au.itglue.com##.copilot-smart-assist-widget.card--clf.card
 
+! ITG walkme
+itglue.walkme.datto.com/*
+
+! walkme
+cdn.walkme.com/*
+papi.walkme.com/*
+*.walkme.dev/*
+*.walkmewa.com/*
+
+
 ! Employment Hero recommended widget
 secure.employmenthero.com###WIDGET_RECOMMENDED > .bmOLWH.StyledWidget__WidgetContainer-sc-14nl3aq-0
 
 ! twitch video ad
 twitch.tv##+js(twitch-videoad)
 
-# ITG walkme
-itglue.walkme.datto.com/*
