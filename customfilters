@@ -13,10 +13,10 @@ au.itglue.com##.copilot-smart-assist-widget.card--clf.card
 ||itglue.walkme.datto.com^
 
 ! walkme
-||cdn.walkme.com/*
-||papi.walkme.com/*
+||cdn.walkme.com^
+||papi.walkme.com^
 ||*.walkme.dev^
-||*.walkmewa.com/^
+||*.walkmewa.com^
 
 
 ! Employment Hero recommended widget
