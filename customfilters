@@ -19,6 +19,9 @@ au.itglue.com##.copilot-smart-assist-widget.card--clf.card
 ||*.walkmewa.com^
 
 
+! pendo.io - something ITG uses
+||*pendo.io^
+
 ! Employment Hero recommended widget
 secure.employmenthero.com###WIDGET_RECOMMENDED > .bmOLWH.StyledWidget__WidgetContainer-sc-14nl3aq-0
 
