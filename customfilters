@@ -13,18 +13,23 @@ au.itglue.com##.copilot-smart-assist-widget.card--clf.card
 ||itglue.walkme.datto.com^
 
 ! walkme
-||cdn.walkme.com^
-||papi.walkme.com^
+||cdn.walkme.com/*
+||papi.walkme.com/*
 ||*.walkme.dev^
-||*.walkmewa.com^
+||*.walkmewa.com/^
+||walkme.portal.datto.com^
 
 
 ! pendo.io - something ITG uses
 ||*pendo.io^
+
 
 ! Employment Hero recommended widget
 secure.employmenthero.com###WIDGET_RECOMMENDED > .bmOLWH.StyledWidget__WidgetContainer-sc-14nl3aq-0
 
 ! twitch video ad
 twitch.tv##+js(twitch-videoad)
+
+! 10 Dec 2025 https://www.secpod.com
+www.secpod.com##.custom-position.fixed.active.pum-position-fixed.size-custom.theme-49082.popmake.pum-container
 
